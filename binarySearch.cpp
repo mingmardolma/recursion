@@ -1,7 +1,6 @@
 //Binary Search algorithm: 
-//Exercise 2. Search for a word in an array of sorted strings
+//Search for a word in an array of sorted strings
 
-//File name: /Users/laptopuser/Documents/courses/cs235/recursion/binarySearch.cpp
 #include <iostream>
 using namespace std;
 
